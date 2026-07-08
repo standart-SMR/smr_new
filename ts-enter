@@ -799,7 +799,7 @@
         <span>Разделы</span>
       </button>
 
-     <div><button class="ts-enter" onclick="closeTitleScreen()">Открыть стандарт</button></div>
+     <div><button class="ts-enter" background: var(--red) onclick="closeTitleScreen()">Открыть стандарт</button></div>
 		
       <button class="card-btn hub-card" onclick="goToGlossaryPage()">
         <span class="hub-card-icon"><svg viewBox="0 0 24 24"><path d="M12 20h9M12 4h9M4 4h.01M4 12h.01M4 20h.01M8 4h13M8 12h13M8 20h13"/></svg></span>
